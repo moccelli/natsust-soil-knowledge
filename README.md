@@ -2,7 +2,7 @@
 This repo contains the dataset and the R scripts for replicating the analysis of Occelli et al. "Smallholder households’ farming knowledge affects soil ability in marginal areas" - working paper under submission at Nature Sustainability journal.
 
 - XX is the main dataset and includes soil and survey data for both study sites
-- The code XX replicates the PCA analysis of knowledge dimensions (Fig.1D)
+- The file *Knowledge_PCA_1.xls* and the script *knwoledge.pca* replicates the PCA analysis of knowledge dimensions (Fig.1D)
 - The code XX replicates Tab.2
 - The code XX replicates Fig.2 
 - The code XX replicates Tab.3
