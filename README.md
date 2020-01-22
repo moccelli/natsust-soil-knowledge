@@ -5,8 +5,8 @@ This repo contains the dataset and the R scripts for replicating the analysis of
 - The file *soil_data.xlsx* and the script *soil_residuals* replicate the calculation of soil ability stemming from soil data;
 - The file *Soil_ability.xlsx* contains the final calculation of the soil ability indicator for each farmer;
 - *Ability_knowledge_master.xlsx* is the main dataset and includes soil and survey data for both study sites;
-- The code *soil ability_knowledge* replicates Tab.2 and Tab.3 of the paper;
-- The code *soil_knowledge_figures* replicates Fig.2 and Fig. 3 of the paper.
+- The code *soil ability_knowledge* replicates Tab.2 and Tab.3 of the paper and Tab. S1, Tab. S2 in the supplementary;
+- The code *soil_knowledge_figures* replicates Fig.2 and Fig. 3 of the paper and Fig. SF1, Fig. SF2 in the supplementary.
 
 
 For any further information, please contact Martina Occelli (PI of the project) [m.occelli@santannapisa.it]
