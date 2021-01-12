@@ -1,5 +1,5 @@
 # natsust-soil-knowledge
-This repo contains the dataset and the R scripts for replicating the analysis of Occelli et al. "Smallholder households’ farming knowledge affects soil ability in marginal areas" - working paper under submission at Nature Sustainability journal.
+This repo contains the dataset and the R scripts for replicating the analysis of Occelli et al. "Smallholder households’ farming knowledge affects soil ability in marginal areas" - article accepted at Agronomy for Sustainable Development (2021).
 
 - The file *Knowledge_PCA_1.xls* and the script *knowledge_pca* replicate the PCA analysis of knowledge dimensions (Fig.1D);
 - The file *soil_data.xlsx* and the script *soil_residuals* replicate the calculation of soil ability stemming from soil data;
